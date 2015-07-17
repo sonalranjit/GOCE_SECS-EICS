@@ -14,4 +14,4 @@ Usage
     
 Example plot:
 --------------
-![alt text](/figs/GOCE_ass_030411_polar.png)
+![alt text](https://github.com/sonalranjit/GOCE_SECS-EICS/tree/master/Single_grid_plotter/figs/GOCE_asc_030411_polar.png)
