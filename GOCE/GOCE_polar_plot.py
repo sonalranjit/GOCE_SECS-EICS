@@ -11,7 +11,9 @@ def polar_plot(grid, col, title,filename):
     z = grid[:,col]
     plt.figure(figsize=(18,18))
     ax = plt.gca()
+    #polar projection
     m = Basemap(projection='npaeqd',boundinglat=30,lon_0=-100.,resolution='l')
+    # Lambert projection
     #m = Basemap(width=8000000, height=8000000, resolution='l', projection='lcc',\
      #        lat_0=60,lon_0=-100.)
     m.drawcoastlines()
