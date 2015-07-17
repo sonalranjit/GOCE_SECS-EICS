@@ -20,5 +20,9 @@ SciPy
 For all the matrix operations and plotting the SciPy package is required. The SciPy installation link can be found [here](http://www.scipy.org/install.html)
 
 Basemap Matplotlib Toolkit
-==========================
-For the spatial plotting of data, the basemap extension to matlplotlib is required. matplotlib is install with the SciPy package but
+--------------------------
+For the spatial plotting of data, the basemap extension to matlplotlib is required. matplotlib is installed with SciPy
+but doesn't have the basemap extensions. Follow the instructions [here](http://matplotlib.org/basemap/users/installing.html)
+for installing the basemap toolkit.
+
+
