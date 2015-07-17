@@ -23,6 +23,6 @@ The inputted satellite track is a text file, where the first 7 columns are for t
         <td>00</td>
         <td>00</td>
         <td>45.000</td>
-        <td>298.000<.td>
+        <td>298.000</td>
     </tr>
 </table>
