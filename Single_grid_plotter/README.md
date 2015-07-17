@@ -8,4 +8,4 @@ Usage
 ------
 1. First load the grid as a numpy array. 
     `<code>` example_grid = np.loadtxt('example_grid.txt')
-There is one main function in the script polar_plot().
+2.There is one main function in the script polar_plot().
