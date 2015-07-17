@@ -15,4 +15,4 @@ Usage
     
 Example plot:
 -------------
-<img src="https://github.com/sonalranjit/GOCE_SECS-EICS/blob/master/Single_grid_plotter/figs/GOCE_asc_030411_polar.png" width="850" height="850")/>
+<img src="https://github.com/sonalranjit/GOCE_SECS-EICS/blob/master/Single_grid_plotter/figs/GOCE_asc_030411_polar.png" width="850" height="850" align="middle")/>

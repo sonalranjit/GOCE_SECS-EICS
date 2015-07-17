@@ -159,7 +159,7 @@ sat_data = np.column_stack((sat_data,zero_col))
 prev_min = []
 #for i in range(0,100):
 # Iterate through the whole matrix of satellite data
-for i in range(548646,len(sat_data)):
+for i in range(0,len(sat_data)):
     '''
     This section of the loop parses the time information from the satellite data to form a string which is used to check
     if a SECS grid exists for that time.
