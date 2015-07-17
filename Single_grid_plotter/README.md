@@ -7,6 +7,7 @@ corresponding coordinates can be specified in the function.
 Usage
 ------
 1. First load the grid as a numpy array. 
-    ` example_grid = np.loadtxt('example_grid.txt') `
+    ` example_grid = np.loadtxt('example_grid.txt')`
     
-2.There is one main function in the script polar_plot().
+2.  There is one main function in the script polar_plot() its syntax is as:
+    `polar_plot([grid],[column to plot],"figure title","figure filename")`
