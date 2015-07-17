@@ -11,3 +11,7 @@ Usage
     
 2.  There is one main function in the script polar_plot() its syntax is as:
     `polar_plot([grid],[column to plot],"figure title","figure filename")`
+    
+Example plot:
+--------------
+![alt text](figs/GOCE_ass_030411_polar.png)
