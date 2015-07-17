@@ -4,7 +4,7 @@ The two main scripts for the kriging and plotting are `SECS_krig.py` and `EICS_k
 
 The script takes in an input array of the satellite track in latitude and longitude, and its corresponding timestamp. 
 The inputted satellite track is an ASCII text file, where the first 7 columns are for the timestamp. It has to formatted as:
-<table align="center" style="width:100%">
+<table style="width:100%">
     <tr>
         <th>YEAR</th>
         <th>MONTH</th>
@@ -26,4 +26,10 @@ The inputted satellite track is an ASCII text file, where the first 7 columns ar
         <td>298.000</td>
     </tr>
 </table>
+
+The script then just parses through the inputted array, it searches the directory where all the SECS and EICS grids are 
+located for a grid with the corresponding timestamp. If a corresponding grid with the matching timestamp is found, then the SECS or 
+EICS grid is loaded, then the Equivalent Ionoshperic Current value is krigged for the current coordinates using
+the SECS or EICS grid. The krigged value is appended in a new column of the loaded array, then a figure is produced with
+the krigged value on top on the SECS or EICS grid. 
 
