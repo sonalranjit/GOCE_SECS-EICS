@@ -38,6 +38,6 @@ Usage
 
 To use the script there are only 2 variables to change.
 *   The path to where all the SECS/EICS grids lie. 
-        *   ex: `/path_to_SECS/SECS/SECSYYYYMMDD/`
+    *   ex: `/path_to_SECS/SECS/SECSYYYYMMDD/`
 *   The path to the GOCE satellite track data.
   
