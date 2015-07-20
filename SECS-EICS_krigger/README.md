@@ -33,3 +33,10 @@ EICS grid is loaded, then the Equivalent Ionoshperic Current value is krigged fo
 the SECS or EICS grid. The krigged value is appended in a new column of the loaded array, then a figure is produced with
 the krigged value on top on the SECS or EICS grid. 
 
+Usage
+------
+
+To use the script there are only 2 variables to change.
+    1. The path to where all the SECS/EICS grids lie. 
+    2. The path to the GOCE satellite track data. 
+  
