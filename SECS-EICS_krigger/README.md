@@ -21,7 +21,7 @@ The inputted satellite track is an ASCII text file, where the first 7 columns ar
         <td>01</td>
         <td>00</td>
         <td>00</td>
-        <td>00</td>
+        <td>00.000</td>
         <td>45.000</td>
         <td>298.000</td>
     </tr>
